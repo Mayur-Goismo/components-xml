@@ -1,19 +1,13 @@
-<mxLibrary>
-  <mxCell id="0"/>
-  <mxCell id="1" parent="0"/>
-  <mxCell id="2" value="ECU" style="shape=rect;fillColor=#FFC107;strokeColor=#000000;" vertex="1" parent="1">
-    <mxGeometry x="0" y="0" width="80" height="40" as="geometry"/>
-  </mxCell>
-  <mxCell id="2" value="Sensor" style="shape=ellipse;fillColor=#4CAF50;strokeColor=#000000;" vertex="1" parent="1">
-    <mxGeometry x="0" y="0" width="50" height="50" as="geometry"/>
-  </mxCell>
-  <mxCell id="2" value="CAN Bus" style="shape=hexagon;fillColor=#03A9F4;strokeColor=#000000;" vertex="1" parent="1">
-    <mxGeometry x="0" y="0" width="100" height="60" as="geometry"/>
-  </mxCell>
-  <mxCell id="2" value="Ethernet" style="shape=parallelogram;fillColor=#FF5722;strokeColor=#000000;" vertex="1" parent="1">
-    <mxGeometry x="0" y="0" width="100" height="40" as="geometry"/>
-  </mxCell>
-  <mxCell id="2" value="LIN Protocol" style="shape=rect;rounded=1;fillColor=#9C27B0;strokeColor=#000000;" vertex="1" parent="1">
-    <mxGeometry x="0" y="0" width="100" height="40" as="geometry"/>
-  </mxCell>
-</mxLibrary>
+<mxlibrary>
+  <shape title="ECU" w="80" h="40">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2" value="ECU" style="shape=rect;fillColor=#FFC107;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="0" y="0" width="80" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </shape>
+</mxlibrary>
